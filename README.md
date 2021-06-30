@@ -26,6 +26,6 @@ Go to https://discord.com/developers/applications/{your_app_id}/information
 
 ### Demo
 
-Here is that just outputs what is input.
+Here is `/echo` outputs.
 
 ![](/static/command_sample.gif)
